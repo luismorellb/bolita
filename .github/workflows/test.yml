@@ -1,7 +1,7 @@
 name: Pruebas de área de triángulo
 
 on:
-  push:
+  push
     
 jobs:
   tests:
